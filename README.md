@@ -1,12 +1,11 @@
 ## Hi everyone, my name is Anton 👋 and I ❤️ to build things.
 
 - 📱 10+ years of hands-on experience and strong background in IoT, web and mobile apps (cross-platform - Xamarin/React Native)
-- 🌩️ 8+ years "in clouds" (AWS, mostly)
-- 🪐 work remotely since 2016
+- 🌩️ 8+ years in cloud computing (mostly AWS)
+- 🪐 Working remotely since 2016
 - 🤖 Most of the time I'm writing on Typscript and Javascript. Sometimes Python and C#.
-- 🌱 I’m currently learning Flutter and play with neuronets (who doesn't). 
+- 🌱 I’m currently learning Flutter and experimenting with neural networks. 
 - ✉️ You can shoot me an email at tony1000@ya.ru.
-- 
 
 My CV: Anton Korepanov.pdf
 
