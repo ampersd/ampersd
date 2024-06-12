@@ -1,4 +1,4 @@
-## Hi everyone, my name is Anton 👋 and I ❤️ to build things.
+## Hi there 👋 My name is Anton and I ❤️ to build things.
 
 - 📱 10+ years of hands-on experience and strong background in IoT, web and mobile apps (cross-platform - Xamarin/React Native)
 - 🌩️ 8+ years in cloud computing (mostly AWS)
