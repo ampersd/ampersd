@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Anton and I ❤️ to build things.
 
-- 📱 10+ years of hands-on experience and strong background in IoT, web and mobile apps (cross-platform - Xamarin/React Native)
+- 📱 10+ years of hands-on experience and strong background in IoT, web and mobile apps
 - 🌩️ 8+ years in cloud computing (mostly AWS)
 - 🪐 Working remotely since 2016
 - 🤖 Most of the time I'm writing on Typscript and Javascript. Sometimes Python and C#.
