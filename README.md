@@ -4,7 +4,7 @@
 - 🌩️ 8+ years in cloud computing (mostly AWS)
 - 🪐 Working remotely since 2016
 - 🤖 Most of the time I'm writing on Typscript and Javascript. Sometimes Python and C#.
-- 🌱 I’m currently learning Flutter and experimenting with neural networks. 
+- 🌱 experimenting with LLMs and neural networks
 - ✉️ You can shoot me an email at tony1000@ya.ru.
 
 My CV: Anton Korepanov.pdf
