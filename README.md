@@ -7,7 +7,19 @@
 - 🌱 experimenting with LLMs and neural networks
 - ✉️ You can shoot me an email at tony1000@ya.ru.
 
-My CV: Anton Korepanov.pdf
+My CV: 
+<a href="https://korepanov.tech/cv/en-pdf/" target="_blank" onclick="window.print()" style="
+  display: inline-block;
+  background-color: #2ea44f;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: system-ui, sans-serif;
+">
+📄 Open & Print CV
+</a>
 
 ## My fancy badge area
 
