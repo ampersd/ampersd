@@ -3,7 +3,7 @@
 - 📱 10+ years of hands-on experience and strong background in IoT, web and mobile apps
 - 🌩️ 8+ years in cloud computing (mostly AWS)
 - 🪐 Working remotely since 2016
-- 🤖 Most of the time I'm writing on Typscript and Javascript. Sometimes Python and C#.
+- 🤖 Most of the time I'm writing on Typescript and Javascript. Sometimes Python and C#.
 - 🌱 experimenting with LLMs and neural networks
 - ✉️ You can shoot me an email at tony1000@ya.ru.
 
