@@ -4,7 +4,7 @@
 - 🌩️ 8+ years in cloud computing (mostly AWS)
 - 🪐 Working remotely since 2016
 - 🤖 Most of the time I'm writing on Typescript and Javascript. Sometimes Python and C#.
-- 🌱 experimenting with LLMs and neural networks
+- 🌱 experimenting with LLMs
 - ✉️ You can shoot me an email at tony1000@ya.ru.
 
 My CV: 
