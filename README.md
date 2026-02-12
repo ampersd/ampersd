@@ -5,10 +5,10 @@
 - 🪐 Working remotely since 2016
 - 🤖 Most of the time I'm writing in Typescript and Javascript. Sometimes in Python and C#.
 - 🌱 experimenting with LLMs
-- ✉️ You can shoot me an email at tony1000@ya.ru.
+- ✉️ You can shoot me an email at ampersd@gmail.com.
 
 My CV: 
-<a href="https://korepanov.tech/cv/en-pdf/" target="_blank" onclick="window.print()" style="
+<a href="https://akorepanov.dev/cv/en-pdf/" target="_blank" onclick="window.print()" style="
   display: inline-block;
   background-color: #2ea44f;
   color: white;
